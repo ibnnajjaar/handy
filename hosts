@@ -1,0 +1,49 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+
+# Custom Subdomains
+127.0.0.1 lokun.sakun.test
+127.0.0.1 takun.takun.test
+127.0.0.1 lupen.word.test
+127.0.0.1 boken.paper.test
+127.0.0.1 shaad.word.test
+127.0.0.1 allam.word.test
+127.0.0.1 yaameen.word.test
+127.0.0.1 admin.mmls.test
+# END: Custom Subdomains
+
+# Herd generated Hosts. Do not change.
+127.0.0.1 cams.test
+127.0.0.1 forms.test
+127.0.0.1 material.test
+127.0.0.1 mmls.test
+127.0.0.1 mpa.test
+127.0.0.1 paperless.test
+127.0.0.1 saas.test
+127.0.0.1 skeleton.test
+127.0.0.1 spms.test
+127.0.0.1 start.test
+127.0.0.1 tester.test
+127.0.0.1 word.test
+127.0.0.1 wordold.test
+# End Herd generated Hosts
